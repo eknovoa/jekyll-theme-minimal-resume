@@ -1,16 +1,16 @@
 # Site settings
 title: Erin Novoa
-description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+description: My Coding Journey
+baseurl: "/my-portfolio" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Erin Novoa
 user_description: I\'m a Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in <b>ruby</b>.
 user_title: Software Engineer
 email: erinnovoa@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+#twitter_username: lorem_ipsum
+github_username:  eknovoa
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
